@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Phelix Odhiambo and I'm a Full stack developer, from Kenya</h2>
+<h2 align="left">Hi 👋! My name is Phelix Odhiambo and I'm a Full stack developer and Data Analyst, from Kenya</h2>
 
 ###
 
